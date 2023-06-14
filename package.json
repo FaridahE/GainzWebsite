@@ -1,0 +1,19 @@
+{
+  "name": "gainz-project",
+  "version": "1.0.0",
+  "description": "This is a workout tracking website created using Typescript, HTML, CSS, React.js, Node.js & MySQL ",
+  "main": "index.js",
+  "scripts": {
+    "test": "gainz"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FaridahE/GainzWebsite.git"
+  },
+  "author": "Faridah Eid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FaridahE/GainzWebsite/issues"
+  },
+  "homepage": "https://github.com/FaridahE/GainzWebsite#readme"
+}
