@@ -1,0 +1,16 @@
+{
+  "name": "gainzwebsite",
+  "version": "1.0.0",
+  "description": "This is a fitness tracking website created using Typescript, HTML, CSS, React.js, Node.js &amp; MySQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.3.1",
+    "typescript": "^5.1.3"
+  }
+}
